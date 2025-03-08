@@ -73,8 +73,7 @@ If you're using Gmail, you need to generate an **App Password** to authenticate 
 
 ## Screenshots
 
-![Mail Application Screenshot](https://i.imgur.com/xyz1234.png)  
-*(Replace with an actual screenshot of your application.)*
+![Mail Application Screenshot](https://github.com/Vishwas-Chakilam/CodeClause-Internship/blob/main/Task-4/Assets/Screenshot%202025-03-08%20102938.png)
 
 ---
 
