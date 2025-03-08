@@ -13,12 +13,21 @@ This repo serves as a collection of all the tasks assigned during the internship
  ┃ ┣ 📜 calculator.py   (Main code file)   
  ┣ 📁 Task-2  
  ┃  ┣ 📜 README.md  
- ┃  ┣ 📜 url_shortener.py  (Main Python script)  
+ ┃  ┣ 📜 url_shortener.py  
+ ┣  📁 Task-3  
+ ┃  ┣ 📜 README.md  
+ ┃  ┣ 📜 client.py  
+ ┃  ┣ 📜 server.py
+ ┣  📁 Task-4  
+ ┃  ┣ 📜 README.md  
+ ┃  ┣ 📜 Mail_App.py 
 ```
 
 ## 🚀 Tasks Completed  
 - ✅ **Task 1:**  - **Simple GUI Calculator** built using **Python and Tkinter** 
-- ✅ **Task 2:**  - **GUI URL Shortener** built using Python    
+- ✅ **Task 2:**  - **GUI URL Shortener** built using Python
+- ✅ **Task 3:**  - **Real Time Chat Application** built using Python
+- ✅ **Task 4:**  - **Advanced Mail Application with UI** built using Python
 
 
 
