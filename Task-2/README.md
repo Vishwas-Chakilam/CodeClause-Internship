@@ -25,7 +25,7 @@ Python (Programming Language) <br>
 pyshorteners (Library for URL shortening)<br>
 
 ### 📸 Screenshot
-(Add a screenshot of the script running here)
+![URLShortener Screenshot](https://github.com/Vishwas-Chakilam/CodeClause-Internship/blob/main/Task-2/Assets/Screenshot%202025-03-08%20095155.png)  
 
 📧 Contact
 👤 Vishwas Chakilam <br>
