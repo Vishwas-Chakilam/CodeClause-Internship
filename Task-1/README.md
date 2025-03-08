@@ -35,7 +35,7 @@ This is a **Simple GUI Calculator** built using **Python and Tkinter**. It allow
 - **Tkinter** (GUI Library)  
 
 ## 📸 Screenshot  
-(Add a screenshot of the running calculator here)  
+![Calculator Screenshot](https://github.com/Vishwas-Chakilam/CodeClause-Internship/blob/main/Task-1/Assets/Screenshot%202025-03-08%20095416.png)  
 
 ## 📧 Contact  
 👤 **Vishwas Chakilam**  
