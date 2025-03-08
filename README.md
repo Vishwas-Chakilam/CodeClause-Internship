@@ -39,15 +39,10 @@ This repo serves as a collection of all the tasks assigned during the internship
 ## 📧 Contact  
 For any queries or collaboration, feel free to reach out!  
 
-👤 **Your Name**  
+👤 **Vishwas Chakilam**  
 📧 Email: [Work.vishwas1@gmail.com]  
 🔗 GitHub: [https://github.com/Vishwas-Chakilam](https://github.com/Vishwas-Chakilam)  
 
 ---
 
 🌟 _This repository is a reflection of my learning journey during the CodeClause Internship. Stay tuned for more updates!_ 🚀✨  
-```
-
----
-
-This README is **structured, beginner-friendly, and professional**. Let me know if you want any modifications! 😊
