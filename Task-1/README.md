@@ -45,5 +45,3 @@ This is a **Simple GUI Calculator** built using **Python and Tkinter**. It allow
 ---
 
 🌟 _This project is part of my CodeClause Internship._ 🚀✨  
-```
-
